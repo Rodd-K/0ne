@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "454363817107",
+    "project_id": "gigz-8dc68",
+    "storage_bucket": "gigz-8dc68.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454363817107:android:42836f129be42e970f9966",
+        "android_client_info": {
+          "package_name": "com.gigz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPzTQAUjpPcdPxxORnlx9ZAr5uxYTm4jU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

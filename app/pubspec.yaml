@@ -1,0 +1,27 @@
+name: gigz_app
+description: GIGZ Flutter app (mobile + web)
+version: 0.1.0+1
+
+environment:
+  sdk: ">=2.18.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.5
+  firebase_core: ^2.10.0
+  firebase_auth: ^4.6.0
+  cloud_firestore: ^4.9.0
+  firebase_storage: ^11.1.0
+  image_picker: ^0.8.7+4
+  provider: ^6.0.5
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
